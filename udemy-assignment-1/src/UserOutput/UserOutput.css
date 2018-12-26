@@ -1,0 +1,8 @@
+p {
+    border: 1px solid #eee;
+    box-shadow: 0px 1px 2px 1px 0px;
+    margin:  14px auto;
+    padding: 14px;
+    color: #ffffff;
+    font-weight: 500;
+}
