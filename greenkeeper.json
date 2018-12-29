@@ -1,0 +1,10 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "list-and-conditionals-app/package.json",
+        "udemy-assignment-1/package.json"
+      ]
+    }
+  }
+}
